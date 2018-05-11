@@ -3,7 +3,5 @@ module.exports = {
     title: 'Experiensa Docs',
   },
   plugins: ['gatsby-plugin-react-helmet'],
-  {
-    pathPrefix: "/experiensa-docs"
-}
+  pathPrefix: "/experiensa-docs"
 }
